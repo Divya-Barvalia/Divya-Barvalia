@@ -1,33 +1,35 @@
-<h1>Hi, I'm Divyakumar! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/divya-kumarb2">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1 align="center">Divyakumar Barvalia</h1>
 
-<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
+<p align="center">
+  Sophomore at NJIT</strong><br/>
+  Studying Information Technology<br/>
+  Specializing in Network and Information Security
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Wazuh SIEM Home Lab](https://github.com/Divya-Barvalia/WazuhSIEMLab)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<hr/>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📂 Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h3>Project One Title</h3>
+<p><a href="[Project1]">🔗 Project Link</a></p>
+<p>Brief summary of your project one goes here.</p>
 
-<h2> 🤳 Connect with me:</h2>
+<h3>Project Two Title</h3>
+<p><a href="[Project2]">🔗 Project Link</a></p>
+<p>Brief summary of your project two goes here.</p>
 
-[<img align="left" alt="DivyakumarBarvalia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3>Project Three Title</h3>
+<p><a href="[Project3]">🔗 Project Link</a></p>
+<p>Brief summary of your project three goes here.</p>
 
-[linkedin]: www.linkedin.com/in/divya-kumarb2
+<hr/>
+
+<h2>🤝 Connect With Me</h2>
+
+<p><a href="[LinkedIn]">💼 LinkedIn</a></p>
+
+<!-- Reference-style links -->
+[LinkedIn]: https://www.linkedin.com/in/divya-kumarb2  
+[Project1]: https://your-project-link-1.com  
+[Project2]: https://your-project-link-2.com  
+[Project3]: https://your-project-link-3.com  
