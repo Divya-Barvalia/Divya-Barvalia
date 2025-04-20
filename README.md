@@ -10,9 +10,8 @@
 
 <h2>📂 Projects</h2>
 
-<h3>Project One Title</h3>
-<p><a href="[Project1]">🔗 Project Link</a></p>
-<p>Brief summary of your project one goes here.</p>
+<p><a href="https://github.com/Divya-Barvalia/WazuhSIEMLab">🔗 Home SIEM Lab</a></p>
+<p> Brief summary of your project one goes here.</p>
 
 <h3>Project Two Title</h3>
 <p><a href="[Project2]">🔗 Project Link</a></p>
