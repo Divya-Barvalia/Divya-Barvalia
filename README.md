@@ -25,9 +25,9 @@
 <h2>📜 Certifications</h2>
 
 <ul>
-  <li><a href="">IBM Cybersecurity Analyst Certificate</a> – <em>Coursera and IBM</em></li>
-  <li><a href="[Cert2]">Career Essentials in System Administration</a> – <em>Microsoft</em></li>
-  <li><a href="[Cert3]">Certification Three Name</a> – <em>Issuing Organization</em></li>
+  <li><a href="Coursera Cybersecurity Analyst IBM.pdf">IBM Cybersecurity Analyst Certificate</a> – <em>Coursera & IBM</em></li>
+  <li><a href="CertificateOfCompletion_Career Essentials in System Administration by Microsoft and LinkedIn.pdf">Career Essentials in System Administration</a> – <em>Microsoft & LinkdIn Learning</em></li>
+  <li><a href="cybrary-cert-ethical-hacking.pdf">Penetration Testing and Ethical Hacking</a> – <em>Cybrary</em></li>
 </ul>
 
 <hr/>
