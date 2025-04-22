@@ -2,13 +2,12 @@
 
 <p align="center">
   Information Technology Student at NJIT<br/>
-  Specializing in Network and Information Security<br/>
-  Cybersecurity Professional
+  Cybersecurity Professional<br/>
 </p>
 
 <hr/>
 
-<h2>📂 Projects</h2>
+<h2>📂 IT & Security Projects</h2>
 
 <p><a href="https://github.com/Divya-Barvalia/WazuhSIEMLab">🔗 Home SIEM Lab</a></p>
 <p>Brief summary of your project one goes here.</p>
@@ -26,7 +25,7 @@
 <h2>📜 Certifications</h2>
 
 <ul>
-  <li><a href="[Cert1]">IBM Cybersecurity Analyst Certificate</a> – <em>Coursera and IBM</em></li>
+  <li><a href="">IBM Cybersecurity Analyst Certificate</a> – <em>Coursera and IBM</em></li>
   <li><a href="[Cert2]">Career Essentials in System Administration</a> – <em>Microsoft</em></li>
   <li><a href="[Cert3]">Certification Three Name</a> – <em>Issuing Organization</em></li>
 </ul>
