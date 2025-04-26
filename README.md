@@ -2,7 +2,8 @@
 
 <p align="center">
   Information Technology Student at NJIT<br/>
-  Cybersecurity Professional<br/>
+  Specializing in Network and Information Security<br/>
+  Cybersecurity Professional
 </p>
 
 <hr/>
