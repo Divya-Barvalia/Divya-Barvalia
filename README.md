@@ -60,5 +60,4 @@
 <hr/>
 
 <h2>🤝 Connect With Me</h2>
-
 <p><a href="https://www.linkedin.com/in/divya-kumarb2">💼 LinkedIn</a></p>
