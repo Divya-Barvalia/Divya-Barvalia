@@ -30,25 +30,21 @@
 <p><a href="https://github.com/Divya-Barvalia/WiFi-Grabber">🔗 WiFi-Grabber</a></p>
 <p>Brief summary of your project five goes here.</p>
 
-<h3>Project Six Title</h3>
-<p><a href="https://your-project-link-6.com">🔗 Project Link</a></p>
+<h3>📡 Threat Intelligence Automation with Cortex XSOAR</h3>
+<p><a href="https://github.com/Divya-Barvalia/Cortex-XSOAR-Lab">🔗 Cortex-XSOAR-Lab</a></p>
 <p>Brief summary of your project six goes here.</p>
 
-<h3>Project Seven Title</h3>
-<p><a href="https://your-project-link-7.com">🔗 Project Link</a></p>
+<h3>🔍 Elastic Stack & Kibana: Endpoint Monitoring and Log Analysis Lab</h3>
+<p><a href="https://github.com/Divya-Barvalia/ELK-Lab">🔗 ELK-Lab</a></p>
 <p>Brief summary of your project seven goes here.</p>
 
-<h3>Project Eight Title</h3>
-<p><a href="https://your-project-link-8.com">🔗 Project Link</a></p>
+<h3>🌐 Monitoring and Investigating Endpoints with Azure Sentinel</h3>
+<p><a href="https://github.com/Divya-Barvalia/Azure-Sentinel">🔗 Azure-Sentinel</a></p>
 <p>Brief summary of your project eight goes here.</p>
 
-<h3>Project Nine Title</h3>
-<p><a href="https://your-project-link-9.com">🔗 Project Link</a></p>
+<h3>📊 Monitoring Active Directory with Splunk</h3>
+<p><a href="https://github.com/Divya-Barvalia/Monitoring-With-Splunk">🔗 Monitoring-With-Splunk</a></p>
 <p>Brief summary of your project nine goes here.</p>
-
-<h3>Project Ten Title</h3>
-<p><a href="https://your-project-link-10.com">🔗 Project Link</a></p>
-<p>Brief summary of your project ten goes here.</p>
 
 <hr/>
 
