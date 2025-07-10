@@ -10,24 +10,24 @@
 
 <h2>📂 IT & Security Projects</h2>
 
-<h3>Project One Title</h3>
-<p><a href="https://github.com/Divya-Barvalia/WazuhSIEMLab">🔗 Home SIEM Lab</a></p>
+<h3>🏠 Home SIEM Lab with Wazuh & VirusTotal Integration</h3>
+<p><a href="https://github.com/Divya-Barvalia/HomeSIEMLab">🔗 Home SIEM Lab</a></p>
 <p>Brief summary of your project one goes here.</p>
 
-<h3>Project Two Title</h3>
-<p><a href="https://your-project-link-2.com">🔗 Project Link</a></p>
+<h3>🛡️ Alert Filtering and Anomaly Detection Tool</h3>
+<p><a href="https://github.com/Divya-Barvalia/Alert-Filtering-Anomaly-Detection-Tool">🔗 Alert Filtering Anomaly Detection Tool</a></p>
 <p>Brief summary of your project two goes here.</p>
 
-<h3>Project Three Title</h3>
-<p><a href="https://your-project-link-3.com">🔗 Project Link</a></p>
+<h3>🖥️ Python Keylogger Portfolio</h3>
+<p><a href="https://github.com/Divya-Barvalia/Python-Keylogger">🔗 Python Keylogger</a></p>
 <p>Brief summary of your project three goes here.</p>
 
-<h3>Project Four Title</h3>
-<p><a href="https://your-project-link-4.com">🔗 Project Link</a></p>
+<h3>🌐 Cloud-Based VPN with AWS & OpenVPN</h3>
+<p><a href="https://github.com/Divya-Barvalia/VPN-In-The-Cloud">🔗 VPN In The Cloud</a></p>
 <p>Brief summary of your project four goes here.</p>
 
-<h3>Project Five Title</h3>
-<p><a href="https://your-project-link-5.com">🔗 Project Link</a></p>
+<h3>🔌 USB Drive Wi-Fi Password Grabber</h3>
+<p><a href="https://github.com/Divya-Barvalia/WiFi-Grabber">🔗 WiFi-Grabber</a></p>
 <p>Brief summary of your project five goes here.</p>
 
 <h3>Project Six Title</h3>
