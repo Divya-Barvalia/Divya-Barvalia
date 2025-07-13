@@ -10,10 +10,6 @@
 
 <h2>📂 IT & Security Projects</h2>
 
-<h3>🏠 Home SIEM Lab with Wazuh & VirusTotal Integration</h3>
-<p><a href="https://github.com/Divya-Barvalia/HomeSIEMLab">🔗 Home SIEM Lab</a></p>
-<p>Deployed the Wazuh SIEM used VirusTotal for monitoring on a Windows agent.</p>
-
 <h3>📊 Monitoring Active Directory with Splunk</h3>
 <p><a href="https://github.com/Divya-Barvalia/Monitoring-With-Splunk">🔗 Monitoring-With-Splunk</a></p>
 <p>Monitored a Active Directory domain on a Windows server with Splunk server and forwarder.</p>
@@ -22,17 +18,21 @@
 <p><a href="https://github.com/Divya-Barvalia/Azure-Sentinel">🔗 Azure-Sentinel</a></p>
 <p>Used Azure Sentinel to detect remote login attacks on VM and mapped where they came from via IP addresses.</p>
 
-<h3>📡 Threat Intelligence Automation with Cortex XSOAR</h3>
-<p><a href="https://github.com/Divya-Barvalia/Cortex-XSOAR-Lab">🔗 Cortex-XSOAR-Lab</a></p>
-<p>Used Palo Alto Networks Cortex XSOAR for automating the workflow of a security incident investigation and response.</p>
-
 <h3>🌐 Cloud-Based VPN with AWS & OpenVPN</h3>
 <p><a href="https://github.com/Divya-Barvalia/VPN-In-The-Cloud">🔗 VPN In The Cloud</a></p>
 <p>Made a free & personal VPN server on AWS Cloud.</p>
 
+<h3>🏠 Home SIEM Lab with Wazuh & VirusTotal Integration</h3>
+<p><a href="https://github.com/Divya-Barvalia/HomeSIEMLab">🔗 Home SIEM Lab</a></p>
+<p>Deployed the Wazuh SIEM used VirusTotal for monitoring on a Windows agent.</p>
+
 <h3>🛡️ Alert Filtering and Anomaly Detection Tool</h3>
 <p><a href="https://github.com/Divya-Barvalia/Alert-Filtering-Anomaly-Detection-Tool">🔗 Alert Filtering Anomaly Detection Tool</a></p>
 <p>Made a useful tool that can filter through security logs/events and give you great insight into incidents through its filtering and anomaly detection features. Highly tunable!</p>
+
+<h3>📡 Threat Intelligence Automation with Cortex XSOAR</h3>
+<p><a href="https://github.com/Divya-Barvalia/Cortex-XSOAR-Lab">🔗 Cortex-XSOAR-Lab</a></p>
+<p>Used Palo Alto Networks Cortex XSOAR for automating the workflow of a security incident investigation and response.</p>
 
 <h3>🖥️ Python Keylogger Portfolio</h3>
 <p><a href="https://github.com/Divya-Barvalia/Python-Keylogger">🔗 Python Keylogger</a></p>
