@@ -12,31 +12,31 @@
 
 <h3>🏠 Home SIEM Lab with Wazuh & VirusTotal Integration</h3>
 <p><a href="https://github.com/Divya-Barvalia/HomeSIEMLab">🔗 Home SIEM Lab</a></p>
-<p>Brief summary of your project one goes here.</p>
+<p>Deployed the Wazuh SIEM used VirusTotal for monitoring on a Windows agent.</p>
 
 <h3>📊 Monitoring Active Directory with Splunk</h3>
 <p><a href="https://github.com/Divya-Barvalia/Monitoring-With-Splunk">🔗 Monitoring-With-Splunk</a></p>
-<p>Brief summary of your project nine goes here.</p>
+<p>Monitored a Active Directory domain on a Windows server with Splunk server and forwarder.</p>
 
 <h3>🌐 Monitoring and Investigating Endpoints with Azure Sentinel</h3>
 <p><a href="https://github.com/Divya-Barvalia/Azure-Sentinel">🔗 Azure-Sentinel</a></p>
-<p>Brief summary of your project eight goes here.</p>
+<p>Used Azure Sentinel to detect remote login attacks on VM and mapped where they came from via IP addresses.</p>
 
 <h3>📡 Threat Intelligence Automation with Cortex XSOAR</h3>
 <p><a href="https://github.com/Divya-Barvalia/Cortex-XSOAR-Lab">🔗 Cortex-XSOAR-Lab</a></p>
-<p>Brief summary of your project six goes here.</p>
+<p>Used Palo Alto Networks Cortex XSOAR for automating the workflow of a security incident investigation and response.</p>
 
 <h3>🌐 Cloud-Based VPN with AWS & OpenVPN</h3>
 <p><a href="https://github.com/Divya-Barvalia/VPN-In-The-Cloud">🔗 VPN In The Cloud</a></p>
-<p>Brief summary of your project four goes here.</p>
+<p>Made a personal VPN server on AWS Cloud.</p>
 
 <h3>🛡️ Alert Filtering and Anomaly Detection Tool</h3>
 <p><a href="https://github.com/Divya-Barvalia/Alert-Filtering-Anomaly-Detection-Tool">🔗 Alert Filtering Anomaly Detection Tool</a></p>
-<p>Brief summary of your project two goes here.</p>
+<p>Made a useful tool that can filter through security logs/events and give you great insight into incidents through its filtering and anomaly detection features. Highly tunable!</p>
 
 <h3>🖥️ Python Keylogger Portfolio</h3>
 <p><a href="https://github.com/Divya-Barvalia/Python-Keylogger">🔗 Python Keylogger</a></p>
-<p>Brief summary of your project three goes here.</p>
+<p>Made a script that logs keystrokes upon opening the program like a trojan malware, and sends the logged keystrokes to an email for information gathering. Made for educational purposes only.</p>
 
 <h3>🔌 USB Drive Wi-Fi Password Grabber</h3>
 <p><a href="https://github.com/Divya-Barvalia/WiFi-Grabber">🔗 WiFi-Grabber</a></p>
