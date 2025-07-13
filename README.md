@@ -36,15 +36,15 @@
 
 <h3>🖥️ Python Keylogger Portfolio</h3>
 <p><a href="https://github.com/Divya-Barvalia/Python-Keylogger">🔗 Python Keylogger</a></p>
-<p>Made a script that logs keystrokes upon opening the program like a trojan malware, and sends the logged keystrokes to an email for information gathering. Made for educational purposes only.</p>
+<p>Made a script that logs keystrokes upon opening the program similar to a trojan malware, and sends the logged keystrokes to an email for information gathering. Made for educational purposes only.</p>
 
 <h3>🔌 USB Drive Wi-Fi Password Grabber</h3>
 <p><a href="https://github.com/Divya-Barvalia/WiFi-Grabber">🔗 WiFi-Grabber</a></p>
-<p>Brief summary of your project five goes here.</p>
+<p>Made a rubber ducky USB drive that hold a VBS script to extract Wi-Fi password when plugged into a device in just 5 seconds. Made for educational purposes only.</p>
 
 <h3>🔍 Elastic Stack & Kibana: Endpoint Monitoring and Log Analysis Lab</h3>
 <p><a href="https://github.com/Divya-Barvalia/ELK-Lab">🔗 ELK-Lab</a></p>
-<p>Brief summary of your project seven goes here.</p>
+<p>Monitored Linux and Windows agents and analyzed logs with Sysmon in Elasticsearch, Logstash, and Kibana.</p>
 
 <hr/>
 
