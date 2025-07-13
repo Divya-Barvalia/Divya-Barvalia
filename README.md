@@ -28,7 +28,7 @@
 
 <h3>🌐 Cloud-Based VPN with AWS & OpenVPN</h3>
 <p><a href="https://github.com/Divya-Barvalia/VPN-In-The-Cloud">🔗 VPN In The Cloud</a></p>
-<p>Made a free personal VPN server on AWS Cloud.</p>
+<p>Made a free & personal VPN server on AWS Cloud.</p>
 
 <h3>🛡️ Alert Filtering and Anomaly Detection Tool</h3>
 <p><a href="https://github.com/Divya-Barvalia/Alert-Filtering-Anomaly-Detection-Tool">🔗 Alert Filtering Anomaly Detection Tool</a></p>
