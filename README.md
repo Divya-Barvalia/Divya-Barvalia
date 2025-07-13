@@ -56,6 +56,7 @@
   <li><a href="Certifications & Badges/CertificateOfCompletion_Career Essentials in System Administration by Microsoft and LinkedIn.pdf">Career Essentials in System Administration</a> – <em>Microsoft & LinkedIn Learning</em></li>
   <li><a href="Certifications & Badges/cybrary-cert-ethical-hacking.pdf">Penetration Testing and Ethical Hacking</a> – <em>Cybrary</em></li>
   <li><a href="Certifications & Badges/Coursera SOC.pdf">Security Operations Center (SOC)</a> – <em>Coursera & Cisco</em></li>
+  <li><a href="Certifications & Badges">AWS Training</a> – <em>AWS</em></li>
 </ul>
 
 <hr/>
