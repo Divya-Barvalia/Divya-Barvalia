@@ -51,10 +51,11 @@
 <h2>📜 Certifications</h2>
 
 <ul>
-  <li><a href="CompTIA Security+ ce certificate.pdf">CompTIA Security+ SY0-701 Certificate</a> – <em>CompTIA</em></li>
-  <li><a href="Coursera Cybersecurity Analyst IBM.pdf">IBM Cybersecurity Analyst Certificate</a> – <em>Coursera & IBM</em></li>
-  <li><a href="CertificateOfCompletion_Career Essentials in System Administration by Microsoft and LinkedIn.pdf">Career Essentials in System Administration</a> – <em>Microsoft & LinkedIn Learning</em></li>
-  <li><a href="cybrary-cert-ethical-hacking.pdf">Penetration Testing and Ethical Hacking</a> – <em>Cybrary</em></li>
+  <li><a href="Certifications & Badges/CompTIA Security+ ce certificate.pdf">CompTIA Security+ SY0-701 Certificate</a> – <em>CompTIA</em></li>
+  <li><a href="Certifications & Badges/Coursera Cybersecurity Analyst IBM.pdf">IBM Cybersecurity Analyst Certificate</a> – <em>Coursera & IBM</em></li>
+  <li><a href="Certifications & Badges/CertificateOfCompletion_Career Essentials in System Administration by Microsoft and LinkedIn.pdf">Career Essentials in System Administration</a> – <em>Microsoft & LinkedIn Learning</em></li>
+  <li><a href="Certifications & Badges/cybrary-cert-ethical-hacking.pdf">Penetration Testing and Ethical Hacking</a> – <em>Cybrary</em></li>
+  <li><a href="Certifications & Badges/Coursera SOC.pdf">Security Operations Center (SOC)</a> – <em>Coursera & Cisco</em></li>
 </ul>
 
 <hr/>
