@@ -14,6 +14,10 @@
 <p><a href="https://github.com/Divya-Barvalia/Monitoring-With-Splunk">🔗 Monitoring-With-Splunk</a></p>
 <p>Monitored a Active Directory domain on a Windows server with Splunk server and forwarder.</p>
 
+<h3>🔎 Phishing URL Scanner – URL Trinity</h3>
+<p><a href="https://github.com/Divya-Barvalia/URL-Trinity">🔗 URL-Trinity</a></p>
+<p>Developed a phishing URL scanner that analyzes links using domain age, SSL certificate validation, VirusTotal reports, Google Safe Browsing lists, and typosquatting detection to generate a risk score. Implemented multiple API integrations.</p>
+
 <h3>🌐 Monitoring and Investigating Endpoints with Azure Sentinel</h3>
 <p><a href="https://github.com/Divya-Barvalia/Azure-Sentinel">🔗 Azure-Sentinel</a></p>
 <p>Used Azure Sentinel to detect remote login attacks on VM and mapped where they came from via IP addresses.</p>
