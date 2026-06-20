@@ -10,6 +10,10 @@
 
 <h2>📂 IT & Security Projects</h2>
 
+<h3>🛡️ SOC Selection Guard – Phishing & Social Engineering Triage Extension</h3>
+<p><a href="https://github.com/Divya-Barvalia/SOC-Selection-Guard-Google-Extension">🔗 SOC-Selection-Guard-Google-Extension</a></p>
+<p>Built a Chrome extension that lets SOC analysts select suspicious text (emails, tickets, chats) and instantly scan it for phishing and social-engineering red flags, secure, local, no data leaves browser.</p>
+
 <h3>📊 Monitoring Active Directory with Splunk</h3>
 <p><a href="https://github.com/Divya-Barvalia/Monitoring-With-Splunk">🔗 Monitoring-With-Splunk</a></p>
 <p>Monitored a Active Directory domain on a Windows server with Splunk server and forwarder.</p>
