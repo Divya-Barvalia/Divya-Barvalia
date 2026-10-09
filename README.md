@@ -10,47 +10,51 @@
 
 <h2>📂 IT & Security Projects</h2>
 
-<h3>🛡️ SOC Selection Guard – Phishing & Social Engineering Triage Extension</h3>
+<h3>Cloud Recipe Finder</h3>
+<p><a href="https://github.com/Divya-Barvalia/Cloud-RecipeFinder">🔗 Cloud-RecipeFinder</a></p>
+<p>Built a full stack web application in the AWS cloud for finding recipes powered by specific ingredients searching. Used multiple availability zones for high availability and load balancing. Segmented the network using public and private subnets for security to keep access to back-end and database at a minimum. Used S3 for backups and CloudWatch for logging and monitoring purposes. Used IAM roles, policies, and users for least-privilege. </p>
+
+<h3>SOC Selection Guard – Phishing & Social Engineering Triage Extension</h3>
 <p><a href="https://github.com/Divya-Barvalia/SOC-Selection-Guard-Google-Extension">🔗 SOC-Selection-Guard-Google-Extension</a></p>
 <p>Built a Chrome extension that lets SOC analysts select suspicious text (emails, tickets, chats) and instantly scan it for phishing and social-engineering red flags, secure, local, no data leaves browser.</p>
 
-<h3>📊 Monitoring Active Directory with Splunk</h3>
+<h3>Monitoring Active Directory with Splunk</h3>
 <p><a href="https://github.com/Divya-Barvalia/Monitoring-With-Splunk">🔗 Monitoring-With-Splunk</a></p>
 <p>Monitored a Active Directory domain on a Windows server with Splunk server and forwarder.</p>
 
-<h3>🔎 Phishing URL Scanner – URL Trinity</h3>
+<h3>Phishing URL Scanner – URL Trinity</h3>
 <p><a href="https://github.com/Divya-Barvalia/URL-Trinity">🔗 URL-Trinity</a></p>
 <p>Developed a phishing URL scanner that analyzes links using domain age, SSL certificate validation, VirusTotal reports, Google Safe Browsing lists, and typosquatting detection to generate a risk score. Implemented multiple API integrations.</p>
 
-<h3>🌐 Monitoring and Investigating Endpoints with Azure Sentinel</h3>
+<h3>Monitoring and Investigating Endpoints with Azure Sentinel</h3>
 <p><a href="https://github.com/Divya-Barvalia/Azure-Sentinel">🔗 Azure-Sentinel</a></p>
 <p>Used Azure Sentinel to detect remote login attacks on VM and mapped where they came from via IP addresses.</p>
 
-<h3>🌐 Cloud-Based VPN with AWS & OpenVPN</h3>
+<h3>Cloud-Based VPN with AWS & OpenVPN</h3>
 <p><a href="https://github.com/Divya-Barvalia/VPN-In-The-Cloud">🔗 VPN In The Cloud</a></p>
 <p>Made a free & personal VPN server on AWS Cloud.</p>
 
-<h3>🏠 Home SIEM Lab with Wazuh & VirusTotal Integration</h3>
+<h3>Home SIEM Lab with Wazuh & VirusTotal Integration</h3>
 <p><a href="https://github.com/Divya-Barvalia/HomeSIEMLab">🔗 Home SIEM Lab</a></p>
 <p>Deployed the Wazuh SIEM used VirusTotal for monitoring on a Windows agent.</p>
 
-<h3>🛡️ Alert Filtering and Anomaly Detection Tool</h3>
+<h3>Alert Filtering and Anomaly Detection Tool</h3>
 <p><a href="https://github.com/Divya-Barvalia/Alert-Filtering-Anomaly-Detection-Tool">🔗 Alert Filtering Anomaly Detection Tool</a></p>
 <p>Made a useful tool that can filter through security logs/events and give you great insight into incidents through its filtering and anomaly detection features. Highly tunable!</p>
 
-<h3>📡 Threat Intelligence Automation with Cortex XSOAR</h3>
+<h3>Threat Intelligence Automation with Cortex XSOAR</h3>
 <p><a href="https://github.com/Divya-Barvalia/Cortex-XSOAR-Lab">🔗 Cortex-XSOAR-Lab</a></p>
 <p>Used Palo Alto Networks Cortex XSOAR for automating the workflow of a security incident investigation and response.</p>
 
-<h3>🖥️ Python Keylogger Portfolio</h3>
+<h3>Python Keylogger Portfolio</h3>
 <p><a href="https://github.com/Divya-Barvalia/Python-Keylogger">🔗 Python Keylogger</a></p>
 <p>Made a script that logs keystrokes upon opening the program similar to a trojan malware, and sends the logged keystrokes to an email for information gathering. Made for educational purposes only.</p>
 
-<h3>🔌 USB Drive Wi-Fi Password Grabber</h3>
+<h3>USB Drive Wi-Fi Password Grabber</h3>
 <p><a href="https://github.com/Divya-Barvalia/WiFi-Grabber">🔗 WiFi-Grabber</a></p>
 <p>Made a rubber ducky USB drive that hold a VBS script to extract Wi-Fi password when plugged into a device in just 5 seconds. Made for educational purposes only.</p>
 
-<h3>🔍 Elastic Stack & Kibana: Endpoint Monitoring and Log Analysis Lab</h3>
+<h3>Elastic Stack & Kibana: Endpoint Monitoring and Log Analysis Lab</h3>
 <p><a href="https://github.com/Divya-Barvalia/ELK-Lab">🔗 ELK-Lab</a></p>
 <p>Monitored Linux and Windows agents and analyzed logs with Sysmon in Elasticsearch, Logstash, and Kibana.</p>
 
